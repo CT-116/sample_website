@@ -1,2 +1,4 @@
 # sample_website
-First project for IT Foundations
+A sample website for Learn Enough HTML to Be Dangerous
+git remote add origin <repo url>
+git push -u origin main
